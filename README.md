@@ -4,9 +4,13 @@ Alle relevanten Informationen zur Hochschule Luzern Organization auf GitHub werd
 
 ## Wirtschaftsinformatik
 
-**Module**
+**Semester 1**
 
-[WIINM11](https://github.com/Hochschule-Luzern/WIINM11-Programmieren) - Modul Java Programmierung
+[WIINM11](https://github.com/Hochschule-Luzern/WIINM11-Programmieren) - Modul Java Programmierung  
+
+**Semester 2**
+
+[WIINM21](https://github.com/Hochschule-Luzern/WIINM21-Softwarekomponenten) - Modul Softwarekomponenten
 
 **Shares**
 
