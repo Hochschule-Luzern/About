@@ -7,6 +7,7 @@ Alle relevanten Informationen zur Hochschule Luzern Organization auf GitHub werd
 **Semester 1**
 
 [WIINM11](https://github.com/Hochschule-Luzern/WIINM11-Programmieren) - Modul Java Programmierung  
+[WWINM11-JavaTutorat](https://github.com/Hochschule-Luzern/WIINM11-JavaTutorat) - Ressourcen für Java Tutorat
 
 **Semester 2**
 
