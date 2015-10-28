@@ -15,5 +15,5 @@ Alle relevanten Informationen zur Hochschule Luzern Organization auf GitHub werd
 
 **Shares**
 
-[Zusammenfassungen WI2014](https://onedrive.live.com/redir?resid=C4CED53321DAFA52!461399&authkey=!ADOLGqQTWWtLW4g&ithint=folder%2ctxt) - Der Gemeinsame Share des Jahrgangs 2014
+[WIDrive](https://onedrive.live.com/redir?resid=C4CED53321DAFA52!461399&authkey=!ADOLGqQTWWtLW4g&ithint=folder%2ctxt) - Der Gemeinsame Share des Jahrgangs 2014
 
